@@ -1,1 +1,1 @@
-python -m pip install qrcode[pil] --user
+python -m pip install qrcode[pil] pyzbar --user
